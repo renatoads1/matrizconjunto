@@ -1,0 +1,13 @@
+D:\PROJETOS\VISUALSTUDIO\udemy\matriz\matriz\bin\Debug\netcoreapp3.1\matriz.exe
+D:\PROJETOS\VISUALSTUDIO\udemy\matriz\matriz\bin\Debug\netcoreapp3.1\matriz.deps.json
+D:\PROJETOS\VISUALSTUDIO\udemy\matriz\matriz\bin\Debug\netcoreapp3.1\matriz.runtimeconfig.json
+D:\PROJETOS\VISUALSTUDIO\udemy\matriz\matriz\bin\Debug\netcoreapp3.1\matriz.runtimeconfig.dev.json
+D:\PROJETOS\VISUALSTUDIO\udemy\matriz\matriz\bin\Debug\netcoreapp3.1\matriz.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\matriz\matriz\bin\Debug\netcoreapp3.1\matriz.pdb
+D:\PROJETOS\VISUALSTUDIO\udemy\matriz\matriz\obj\Debug\netcoreapp3.1\matriz.csprojAssemblyReference.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\matriz\matriz\obj\Debug\netcoreapp3.1\matriz.csproj.CoreCompileInputs.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\matriz\matriz\obj\Debug\netcoreapp3.1\matriz.AssemblyInfoInputs.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\matriz\matriz\obj\Debug\netcoreapp3.1\matriz.AssemblyInfo.cs
+D:\PROJETOS\VISUALSTUDIO\udemy\matriz\matriz\obj\Debug\netcoreapp3.1\matriz.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\matriz\matriz\obj\Debug\netcoreapp3.1\matriz.pdb
+D:\PROJETOS\VISUALSTUDIO\udemy\matriz\matriz\obj\Debug\netcoreapp3.1\matriz.genruntimeconfig.cache
