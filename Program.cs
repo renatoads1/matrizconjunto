@@ -25,11 +25,12 @@ namespace matriz
 
 
             Console.WriteLine("____________conjuntohash__________________");
-            HashSet<int> conjunto = new HashSet<int> {1,2,3,4,5,6 };
+            HashSet<int> conjunto = new HashSet<int> {1,2,3,4,9,6 };
             foreach (int z in conjunto) {
                 Console.WriteLine(z);
             }
             int val = 5;
+
             if (conjunto.Contains(val))
             {
                 Console.WriteLine("contem 5");
